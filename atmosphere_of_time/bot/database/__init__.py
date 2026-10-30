@@ -1,0 +1,1 @@
+from bot.database import db  # noqa: F401
